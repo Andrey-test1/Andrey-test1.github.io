@@ -85,6 +85,7 @@ header {
 	color: #ffe57f;
 	border-radius: 12px;
 	background-color: #ff5722;
+	border: 1px solid #FAFAFA;
 	transition: all.5s ease;
 }
 
@@ -152,6 +153,7 @@ header {
 	color: #fff;
 	border-radius: 12px;
 	background-color: #ff5722;
+	border: 1px solid #FAFAFA;
 	transition: all.4s ease;
 }
 
