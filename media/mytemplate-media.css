@@ -1,0 +1,305 @@
+@media only screen and (max-width: 1920px) {
+	.TdText {
+		font-size: 2em; 
+	}
+	
+	.TdText-center {
+		font-size: 2em; 
+	}
+	
+	.name {
+		font-size: 4.5em;
+	}
+	
+	.advertising {
+		font-size: 1.5em;
+	}
+	
+	.conditions {
+		font-size: 2.5em;
+	}
+	
+	.GeneralText {
+		font-size: 1.5em;
+	}
+	
+	.copy {
+		font-size: 1.5em;
+	}
+	
+	.pulse {
+		margin-left: 46.7%;
+	}
+}
+
+@media only screen and (max-width: 1366px) {
+	.TdText {
+		font-size: 1.5em;
+	}
+	
+	.TdText-center {
+		font-size: 1.5em;
+	}
+	
+	.name {
+		font-size: 4em;
+	}
+	
+	.advertising {
+		font-size: 1em;
+	}
+	
+/* 		.TdDiv:hover {
+		background-color: #c0c0c0;
+		color: #fff;
+		padding-left: 20px;
+		padding-right: 20px; 
+		transition: all 0.5s ease;
+	} */
+	
+	.conditions {
+		font-size: 2em;
+	}
+	
+	.GeneralText {
+		font-size: 1.3em;
+	}
+	
+	.copy {
+		font-size: 1em;
+	}
+	
+	.pulse {
+		margin-left: 45.5%;
+	}
+}
+
+@media only screen and (max-width: 1280px) {
+		.pulse {
+			margin-left: 45.2%;
+		}
+}
+
+@media only screen and (max-width: 980px) {
+		.pulse {
+			margin-left: 43.8%;
+		}
+		
+		.TdDiv {
+			width: 90%;
+			margin-left: 0;
+			margin-right: 0;
+		}
+		
+		.TdDiv-center {
+			width: 90%;
+			margin-left: 0;
+			margin-right: 0;
+		}
+		
+		.TdText {
+			font-size: 1.7em;
+		}
+		
+		.TdText-center {
+			font-size: 1.7em;
+		}
+		
+		.td {
+			width: 70%;
+			margin-left: 15%;
+			margin-right: 15%;
+			float: left;
+			min-height: 20px;
+			margin-bottom: 3%;
+		}
+		
+		.td-center {
+			width: 70%;
+			margin-left: 15%;
+			margin-right: 15%;
+			float: left;
+			min-height: 20px;
+			margin-bottom: 3%;
+		}
+		
+		.conditions {
+			font-size: 2em;
+		}
+		
+		.GeneralText {
+			font-size: 1em;
+			float: left;
+			width: 70%;
+			margin-left: 15%;
+			margin-right: 15%;
+			min-height: 10px;
+			text-align: left; 
+		}
+		
+		.copy {
+			font-size: 1em;
+		}
+		
+}
+
+@media only screen and (max-width: 700px) {
+	.wrapper {
+		width: 100%;
+		min-height: 100%;
+		margin-top: 0;
+		margin-bottom: 0;
+		float: left;
+		border-radius: 0;
+		background-color: none;
+		margin-left: 0;
+	}
+	
+	.pulse {
+		margin-left: 39%;
+	}
+	
+	.td {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		float: left;
+	}
+	
+	.td-center {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		float: left;
+	}
+	
+	.TdText {
+		font-size: 1.7em;
+	}
+	
+	.TdText-center {
+		font-size: 1.7em;
+	}
+	
+	.GeneralText {
+		float: left;
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		min-height: 10px;
+		text-align: left;
+	}
+	
+	header {
+			min-height: 140px;
+		}
+}
+
+@media only screen and (max-width: 480px) {
+	.wrapper {
+		width: 100%;
+		min-height: 100%;
+		margin-top: 0;
+		margin-bottom: 0;
+		float: left;
+		border-radius: 0;
+		background-color: none;
+		margin-left: 0;
+	}
+	
+	.pulse {
+		margin-left: 39%;
+	}
+	
+	.name {
+		font-size: 3em;
+	}
+		
+	
+	.td {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		float: left;
+	}
+	
+	.td-center {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		float: left;
+	}
+	
+	.TdText {
+		font-size: 1.7em;
+	}
+	
+	.TdText-center {
+		font-size: 1.7em;
+	}
+	
+	.GeneralText {
+		float: left;
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		min-height: 10px;
+		text-align: left;
+	}
+	
+	header {
+			min-height: 140px;
+		}
+}
+
+@media only screen and (max-width: 360px) {
+		.pulse {
+			margin-left: 36%;
+		}
+		
+		header {
+			min-height: 140px;
+		}
+}
+
+@media only screen and (max-width: 320px) {
+		.pulse {
+			margin-left: 34.5%;
+		}
+		
+		.name {
+			font-size: 2.5em;
+		}
+		
+		.td {
+			width: 100%;
+			margin-left: 0%;
+			margin-right: 0%;
+			float: left;
+		}
+		
+		.td-center {
+			width: 100%;
+			margin-left: 0%;
+			margin-right: 0%;
+			float: left;
+		}
+		
+		header {
+			min-height: 140px;
+		}
+}
+
+@media only screen and (max-width: 290px) {
+			.pulse {
+			margin-left: 29%;
+		}
+		
+		.name {
+			font-size: 2.5em;
+		}
+		
+		header {
+			min-height: 140px;
+		}
+}
